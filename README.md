@@ -30,4 +30,4 @@ O jogo também permite gerar campos aleatórios com diferentes tamanhos e porcen
 ## Instalação
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/find-your-hat.git
+git clone https://github.com/diegocp05/find-your-hat.git
